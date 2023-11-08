@@ -1,4 +1,4 @@
-# Предсказание временного ряда, выбор гиперпараметров методом дифференциальной эволюции и симплекс-методом
+# Time series forecasting. Selection of hyperparameters by differential evolution and simplex method
 
-Данные предстваляют из себя набор исторических данных ETF фонда RCMX Райффазен банка, который торгуется на Московской бирже. 
-Задача предсказать значение фонда на следующие 14 дней
+The data is a set of historical data of the Raiffeisen Bank RCMX ETF, which is traded on the Moscow Exchange. 
+The task is to predict the value of the fund for the next 14 days
